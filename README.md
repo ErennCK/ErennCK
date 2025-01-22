@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eren Can Kişioğlu</h1>
+<h3 align="center">I am computer engineering student at Dumlupinar University</h3>
+
+- 📫 How to reach me **eren.kisioglu62@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eren can kişioğlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eren can kişioğlu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eren-can-kişioğlu-33524121a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eren-can-kişioğlu-33524121a/" height="30" width="40" /></a>
 <a href="https://instagram.com/erencankisioglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erencankisioglu" height="30" width="40" /></a>
 </p>
 
